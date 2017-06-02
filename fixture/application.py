@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -8,6 +10,7 @@ from fixture.dispatch import dispath_helper
 from fixture.sender import sender_helper
 from fixture.resiver import reciver_helper
 from fixture.blank import blank_helper
+from fixture.attach import attach_helper
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -18,6 +21,7 @@ class Application:
         self.sender = sender_helper(self)
         self.reciver = reciver_helper(self)
         self.blank = blank_helper(self)
+        self.attach = attach_helper(self)
 
         self.fp = webdriver.FirefoxProfile()
         self.fp.set_preference("browser.download.folderList", 2)
@@ -50,7 +54,7 @@ class Application:
 
     def go_to_second_form(self):
         wd = self.wd
-        wd.find_element_by_id("FillFormButton").click()
+        self.wait_and_click_by_id(self.wd, "FillFormButton")
 
     def open_home_page(self):
         wd = self.wd
@@ -58,6 +62,7 @@ class Application:
 
     def destroy(self):
         self.wd.quit()
+
 
     def is_alert_present(self, wd, accept):
         try:
@@ -68,6 +73,7 @@ class Application:
             return True
         except:
             return False
+
 
     def wait_and_click_by_id(self, wd, web_element):
         wait = WebDriverWait(wd, 10)

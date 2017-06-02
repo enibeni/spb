@@ -1,0 +1,22 @@
+[
+  {
+    "py/object": "model.blank.blank",
+    "requisities": "111111111",
+    "phone": "+7(999)999-99-99",
+    "fax": "+7(999)999-99-95",
+    "email": "email@domen.ru",
+    "licence": "12121212",
+    "licence2": "12121212",
+    "cert": "12121212",
+    "cert2": "12121212",
+    "invoice": "12121212",
+    "invoice2": "12121212",
+    "declaired_value": "1000",
+    "cash_on_delivery": "1000",
+    "currancy": "RUB, Российский рубль",
+    "parse_number": "45454545",
+    "cur_post_number": "45",
+    "note": "Примечание",
+    "period": "31.12.16"
+  }
+]

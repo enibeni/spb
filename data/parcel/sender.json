@@ -1,0 +1,14 @@
+[
+  {
+    "py/object": "model.sender.sender",
+    "company": "OOO Company",
+    "fio": null,
+    "zipcode": "111394",
+    "region": null,
+    "city": "Moscow",
+    "street": "polimernaya",
+    "home": "3",
+    "inn": "773605000312",
+    "kpp": "997250001"
+  }
+]

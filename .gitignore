@@ -1,0 +1,6 @@
+cache/
+.git
+idea/
+__pycache__/
+env
+*.log

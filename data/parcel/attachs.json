@@ -1,0 +1,24 @@
+[
+    {
+      "py/object": "model.attachs.attachs",
+      "attach_name": "Рубашка х/б",
+      "count": "1",
+      "weight": "1",
+      "cost": "1000",
+      "TNVED": "6105100000",
+      "country": "АВСТРИЯ"
+    },
+    {
+      "py/object": "model.attachs.attachs",
+      "attach_name": "Рубашка х/б",
+      "count": "50",
+      "weight": "5",
+      "cost": "1600",
+      "TNVED": "6105100000",
+      "country": "АВСТРАЛИЯ"
+    }
+]
+
+
+
+
