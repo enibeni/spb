@@ -19,7 +19,7 @@ def test_spb_form(app, json_dispatch, json_sender, json_reciver, json_attach, js
     # FORM 2
     app.sender.fill_company_name(sender.company)
     app.sender.fill_zipcode(sender.zipcode)
-    app.sender.fill_region()
+    app.sender.fill_region(sender.region)
     app.sender.fill_city()
     app.sender.fill_street(sender.street)
     app.sender.fill_home(sender.home)

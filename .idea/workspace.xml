@@ -33,45 +33,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_spb_attachs_json.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test_spb_attachs_json.py">
+      <file leaf-file-name="attach.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixture/attach.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-              <folding>
-                <element signature="e#24#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_spb_form.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test_spb_form.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="610">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conftest.py">
+      <file leaf-file-name="dispatch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/dispatch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="30" />
-              <folding>
-                <element signature="e#25#34#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_spb_attach_json.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test_spb_attach_json.py">
+      <file leaf-file-name="reciver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/reciver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-258">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="378">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sender.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/sender.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dispatch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixture/dispatch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blank.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixture/blank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attach.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/parcel/attach.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sender.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/parcel/sender.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -80,58 +116,18 @@
       <file leaf-file-name="sender.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixture/sender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            <state relative-caret-position="318">
+              <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="test_spb_attach_json.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test_spb_attach_json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fixture/application.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="60" column="50" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dispatch.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/parcel/dispatch.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reciver.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/parcel/reciver.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sender.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/parcel/sender.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="126">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -167,9 +163,7 @@
         <option value="$PROJECT_DIR$/data/parcel/reciver.json" />
         <option value="$PROJECT_DIR$/model/parcel/attach.py" />
         <option value="$PROJECT_DIR$/model/reciver.py" />
-        <option value="$PROJECT_DIR$/model/sender.py" />
         <option value="$PROJECT_DIR$/model/dispatch.py" />
-        <option value="$PROJECT_DIR$/data/parcel/sender.json" />
         <option value="$PROJECT_DIR$/model/blank.py" />
         <option value="$PROJECT_DIR$/data/parcel/blank.json" />
         <option value="$PROJECT_DIR$/fixture/blank.py" />
@@ -177,7 +171,6 @@
         <option value="$PROJECT_DIR$/data/parcel/dispatch.json" />
         <option value="$PROJECT_DIR$/test/rest_pdf.py" />
         <option value="$PROJECT_DIR$/fixture/application.py" />
-        <option value="$PROJECT_DIR$/fixture/sender.py" />
         <option value="$PROJECT_DIR$/test/test_spb_form.py" />
         <option value="$PROJECT_DIR$/test/test_spb_form_json.py" />
         <option value="$PROJECT_DIR$/test/test_spb_attachs_json.py" />
@@ -188,12 +181,18 @@
         <option value="$PROJECT_DIR$/fixture/attach.py" />
         <option value="$USER_HOME$/Desktop/Новая папка (11)/get_barcode.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pages/basic_parameters.py" />
+        <option value="$PROJECT_DIR$/pages/dispatch.py" />
+        <option value="$PROJECT_DIR$/fixture/sender.py" />
+        <option value="$PROJECT_DIR$/test/test_spb_attach_json.py" />
+        <option value="$PROJECT_DIR$/model/sender.py" />
+        <option value="$PROJECT_DIR$/data/parcel/sender.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="219" />
-    <option name="width" value="1296" />
+    <option name="x" value="213" />
+    <option name="width" value="1461" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -325,20 +324,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\dev\spb\data\parcel" />
-      <recent name="C:\dev\spb\model" />
-      <recent name="C:\dev\spb" />
-      <recent name="C:\dev\spb\test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\dev\spb\test" />
       <recent name="C:\dev\spb\data\parcel" />
       <recent name="C:\dev\spb" />
       <recent name="C:\dev\spb\fixture" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\spb\data\parcel" />
+      <recent name="C:\dev\spb\model" />
+      <recent name="C:\dev\spb" />
+      <recent name="C:\dev\spb\test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_spb_form">
+  <component name="RunManager" selected="Python tests.py.test in test_spb_attach_json.py">
     <configuration default="false" name="py.test in test_spb_form_json.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,30 +356,6 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="testToRun" value="$PROJECT_DIR$/test/test_spb_form_json.py" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in test_spb_form.py" type="tests" factoryName="py.test" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spb" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/test/test_spb_form.py" />
       <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
@@ -450,6 +425,30 @@
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test_spb_attach_json.py" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="spb" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test/test_spb_attach_json.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -588,18 +587,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form_json.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_attachs_json.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_barcode" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_attachs_json.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.get_barcode" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_attach_json.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form" />
-        <item index="1" class="java.lang.String" itemvalue="Python.get_barcode" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_attachs_json.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form_json.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_attach_json.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form" />
+        <item index="2" class="java.lang.String" itemvalue="Python.get_barcode" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_attachs_json.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_spb_form_json.py" />
       </list>
     </recent_temporary>
   </component>
@@ -617,42 +616,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_spb_attachs_json_py - 2017.02.13 at 17h 30m 57s.xml">
-      <configuration name="py.test in test_spb_attachs_json.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 13m 12s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_spb_attachs_json_py - 2017.02.13 at 17h 32m 54s.xml">
-      <configuration name="py.test in test_spb_attachs_json.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 17m 34s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_spb_attachs_json_py - 2017.02.13 at 17h 33m 58s.xml">
-      <configuration name="py.test in test_spb_attachs_json.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 19m 21s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_spb_attachs_json_py - 2017.02.13 at 17h 36m 25s.xml">
-      <configuration name="py.test in test_spb_attachs_json.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 19m 52s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_spb_attachs_json_py - 2017.02.13 at 17h 37m 57s.xml">
-      <configuration name="py.test in test_spb_attachs_json.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 24m 16s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_spb_attachs_json_py - 2017.02.17 at 12h 11m 51s.xml">
-      <configuration name="py.test in test_spb_attachs_json.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 24m 52s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_spb_form - 2017.06.02 at 11h 15m 51s.xml">
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 25m 39s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 26m 29s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_spb_attach_json_py - 2017.06.02 at 12h 29m 36s.xml">
+      <configuration name="py.test in test_spb_attach_json.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_spb_form - 2017.06.02 at 12h 12m 04s.xml">
       <configuration name="py.test in test_spb_form" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_spb_form - 2017.06.02 at 11h 16m 25s.xml">
-      <configuration name="py.test in test_spb_form" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_spb_form_json_py - 2017.02.13 at 17h 25m 26s.xml">
-      <configuration name="py.test in test_spb_form_json.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_spb_form_json_py - 2017.02.13 at 17h 28m 07s.xml">
-      <configuration name="py.test in test_spb_form_json.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="219" y="0" width="1296" height="1080" extended-state="0" />
+    <frame x="213" y="0" width="1461" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19311798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -689,26 +688,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fixture/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <element signature="e#25#34#0" expanded="true" />
+            <element signature="e#25#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -755,7 +740,7 @@
         <state relative-caret-position="493">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <element signature="e#25#34#0" expanded="true" />
+            <element signature="e#25#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -815,76 +800,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/dispatch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/sender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fixture/resiver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/dispatch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/reciver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/blank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/attachs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/attach.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/attach.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/blank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
-          <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,16 +828,8 @@
         <state relative-caret-position="394">
           <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding>
-            <element signature="e#24#40#0" expanded="true" />
+            <element signature="e#24#40#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/parcel/attach.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -954,14 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/parcel/sender.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_pdf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -986,20 +889,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_spb_attach_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="30" />
           <folding>
-            <element signature="e#25#34#0" expanded="true" />
+            <element signature="e#25#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1009,16 +904,8 @@
         <state relative-caret-position="354">
           <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding>
-            <element signature="e#24#59#0" expanded="true" />
+            <element signature="e#24#59#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/sender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,6 +913,126 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/attach.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/attachs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/blank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/reciver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35-32/Lib/site-packages/selenium/webdriver/common/keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/dispatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/attach.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dispatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/dispatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/blank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/sender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_spb_attach_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/sender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/parcel/attach.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/parcel/sender.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
         </state>
       </provider>

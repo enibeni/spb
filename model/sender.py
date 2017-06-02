@@ -23,7 +23,7 @@ class sender:
 
 
     def __eq__(self, other):
-        return (self.conutry is None or self.company == other.company) and \
+        return (self.company is None or self.company == other.company) and \
                (self.fio is None or self.fio == other.fio) and \
                self.zipcode == other.zipcode and \
                self.region == other.region and \

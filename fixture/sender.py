@@ -38,11 +38,11 @@ class sender_helper:
         wd = self.app.wd
         wd.find_element_by_xpath(".// *[ @ id = 'Sender_City'] / div[2] / input").click()
 
-    def fill_region(self):
+    def fill_region(self, region):
         wd = self.app.wd
-        wd.find_element_by_css_selector("select").click()
-        if not wd.find_element_by_xpath("//div[@id='Sender_Region']/select[1]//option[47]").is_selected():
-            wd.find_element_by_xpath("//div[@id='Sender_Region']/select[1]//option[47]").click()
+        # wd.find_element_by_css_selector("select").click()
+        # if not wd.find_element_by_xpath(".//*[@id='Sender_Region']/div[2]/input").is_selected():
+        wd.find_element_by_xpath(".//*[@id='Sender_Region']/div[2]/input").send_keys(region)
 
     def fill_zipcode(self, zip):
         wd = self.app.wd
